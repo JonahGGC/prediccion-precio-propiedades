@@ -1,0 +1,52 @@
+state,gdp_per_capita,violent_crime_rate,homicide_rate
+Alabama,65694,359.9,8.7
+Alaska,101742,724.1,6.9
+Arizona,78463,421.9,4.9
+Arkansas,63703,579.4,7.3
+California,108012,486.0,4.5
+Colorado,97184,476.3,4.5
+Connecticut,102062,136.0,2.5
+Delaware,110588,360.8,5.7
+District of Columbia,277689,1005.5,25.5
+Florida,78195,267.1,3.9
+Georgia,81823,325.7,6.9
+Hawaii,86967,217.7,1.6
+Idaho,66784,230.6,1.6
+Illinois,94503,289.2,5.8
+Indiana,78188,312.9,5.5
+Iowa,85570,243.3,2.1
+Kansas,81075,438.7,3.8
+Kentucky,66617,213.1,6.1
+Louisiana,73639,519.8,10.8
+Maine,72688,100.1,2.3
+Maryland,90680,420.4,7.2
+Massachusetts,114635,314.7,1.8
+Michigan,72085,434.3,5.2
+Minnesota,91154,256.6,2.9
+Mississippi,55877,210.5,7.4
+Missouri,74710,462.0,7.8
+Montana,71947,423.5,2.7
+Nebraska,98153,220.5,2.1
+Nevada,85752,402.0,6.1
+New Hampshire,88688,110.1,1.0
+New Jersey,92915,217.7,2.3
+New Mexico,71879,717.1,10.5
+New York,123369,380.2,2.7
+North Carolina,79815,375.8,7.5
+North Dakota,102436,254.3,2.6
+Ohio,81239,293.7,5.0
+Oklahoma,66554,422.8,6.3
+Oregon,80225,331.0,3.7
+Pennsylvania,80895,245.6,5.0
+Rhode Island,75329,153.6,2.1
+South Carolina,68009,436.7,7.5
+South Dakota,86248,362.3,4.7
+Tennessee,80630,592.3,7.9
+Texas,91594,389.4,5.2
+Utah,89286,229.6,2.6
+Vermont,75001,219.1,3.4
+Virginia,89914,217.9,4.8
+Washington,111860,326.1,3.8
+West Virginia,61873,248.8,5.3
+Wisconsin,79199,278.5,4.2
+Wyoming,89379,203.4,2.4

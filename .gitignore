@@ -1,0 +1,9 @@
+# Dataset original (179 MB, se descarga de Kaggle)
+dataset/realtor-data.zip.csv
+
+# Archivos temporales
+.ipynb_checkpoints/
+__pycache__/
+reporte/*.aux
+reporte/*.log
+reporte/*.out
